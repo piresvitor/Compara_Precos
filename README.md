@@ -9,7 +9,7 @@ Site para a comparação de preços atráves da API do mercado livre
 * JavaScript 
 
 ## Acesse o projeto
-Link: 
+Link: https://piresvitor.github.io/Compara_Precos/
 
 ## Imagem do projeto
 
